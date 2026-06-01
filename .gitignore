@@ -1,0 +1,9 @@
+# Compilados de Java
+out/
+*.class
+
+# Respaldos y reportes generados durante la ejecucion
+data/respaldos/
+
+# Archivos temporales
+*.tmp

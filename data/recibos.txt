@@ -1,0 +1,4 @@
+# id|polizaId|vencimiento|monto|pagado
+1|1|2026-08-01|8500.0|false
+2|2|2026-05-27|12000.0|false
+3|3|2026-06-16|9500.0|false

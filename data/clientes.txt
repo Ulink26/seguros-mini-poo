@@ -1,0 +1,3 @@
+# id|nombre|telefono|email
+1|Ana Martinez|4491234567|ana@email.com
+2|Jorge Ramirez|4497654321|jorge@email.com

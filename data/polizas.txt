@@ -1,0 +1,4 @@
+# id|tipo|clienteId|numero|aseguradora|inicio|vencimiento|prima|detalle
+1|AUTO|1|AUTO-001|GNP|2025-08-01|2026-08-01|8500.0|Toyota Corolla 2021
+2|VIDA|2|VIDA-001|MetLife|2025-06-01|2026-05-27|12000.0|Laura Ramirez
+3|GASTOS_MEDICOS|1|GM-001|AXA|2026-03-01|2026-06-16|9500.0|Ana Martinez
